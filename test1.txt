@@ -1,0 +1,10 @@
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: 0AE6-7EBF
+
+ Directorio de C:\Users\david.hernandezp\Desktop\MyProject
+
+03/06/2021  09:37 p. m.    <DIR>          .
+03/06/2021  09:37 p. m.    <DIR>          ..
+03/06/2021  09:37 p. m.                 0 test1.txt
+               1 archivos              0 bytes
+               2 dirs  68,305,793,024 bytes libres
